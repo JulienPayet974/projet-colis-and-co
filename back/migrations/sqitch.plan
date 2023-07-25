@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=colisandco
+
+init 2023-03-29T08:28:01Z Carlos Lopes <daniel.marqueslopes74@gmail.com> # initialization of the project
+
+modif01_arrival-date 2023-03-29T13:50:28Z Carlos Lopes <daniel.marqueslopes74@gmail.com> # Changing type arrival  date

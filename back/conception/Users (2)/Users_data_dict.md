@@ -1,0 +1,34 @@
+- type_of_merchandise
+- quantity
+- volume
+- length
+- width
+- height
+- weight
+- departure_address
+- zipcode
+- city
+- departure_phone_number
+- arrival_address
+- arrival_zipcode
+- arrival_city
+- arrival_phone_number
+- departure_date
+- arrival_date
+- price
+- image
+- creator_id
+- carrier_id
+- email
+- password
+- role
+- first_name
+- last_name
+- address
+- comp address
+- zipcode
+- city
+- birth date
+- phone number
+- carrier
+- identity_verified

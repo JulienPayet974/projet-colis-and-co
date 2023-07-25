@@ -1,0 +1,23 @@
+{
+  "width": 305,
+  "height": 687,
+  "cx": [
+    [ "USER", 64 ],
+    [ "performs", 211 ],
+    [ "creates", 64 ],
+    [ "DELIVERY", 211 ]
+  ],
+  "cy": [
+    [ "USER", 136 ],
+    [ "performs", 136 ],
+    [ "creates", 483 ],
+    [ "DELIVERY", 483 ]
+  ],
+  "shift": [
+    [ "performs,DELIVERY,0", 0 ],
+    [ "performs,USER,0", 0 ],
+    [ "creates,USER,0", 0 ],
+    [ "creates,DELIVERY,0", 0 ]
+  ],
+  "ratio": []
+}

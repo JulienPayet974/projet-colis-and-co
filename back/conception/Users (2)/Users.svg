@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="305" height="687" viewBox="0 0 305 687" xmlns="http://www.w3.org/2000/svg">
+<rect id="frame" x="0" y="0" width="305" height="687" fill="#ffffbf" stroke="none" stroke-width="0"/>
+
+<!-- Association performs -->
+<g class="page_0_6CD78GTb diagram_page" visibility="visible">
+	<line x1="211" y1="483" x2="211" y2="136" stroke="#66c2a5" stroke-width="2"/>
+	<text x="216" y="280" fill="#d53e4f" font-family="Verdana" font-size="12">1,1</text>
+	<line x1="64" y1="136" x2="211" y2="136" stroke="#66c2a5" stroke-width="2"/>
+	<text x="124" y="153" fill="#d53e4f" font-family="Verdana" font-size="12">0,N</text>
+	<g>
+		<path d="M232 111 a14 14 90 0 1 14 14 V136 h-70 V125 a14 14 90 0 1 14 -14" fill="#abdda4" stroke="#abdda4" stroke-width="0"/>
+		<path d="M246 136 v11 a14 14 90 0 1 -14 14 H190 a14 14 90 0 1 -14 -14 V136 H70" fill="#e6f598" stroke="#e6f598" stroke-width="0"/>
+		<rect x="176" y="111" width="70" height="50" fill="none" rx="14" stroke="#66c2a5" stroke-width="2"/>
+		<line x1="176" y1="136" x2="246" y2="136" stroke="#66c2a5" stroke-width="1"/>
+		<text x="184" y="128.75" fill="#000" font-family="Verdana" font-size="12">performs</text>
+	</g>
+</g>
+
+<!-- Association creates -->
+<g class="page_0_6CD78GTb diagram_page" visibility="visible">
+	<line x1="64" y1="136" x2="64" y2="483" stroke="#66c2a5" stroke-width="2"/>
+	<text x="69" y="280" fill="#d53e4f" font-family="Verdana" font-size="12">0,N</text>
+	<line x1="211" y1="483" x2="64" y2="483" stroke="#66c2a5" stroke-width="2"/>
+	<text x="100" y="500" fill="#d53e4f" font-family="Verdana" font-size="12">1,1</text>
+	<g>
+		<path d="M80 458 a14 14 90 0 1 14 14 V483 h-60 V472 a14 14 90 0 1 14 -14" fill="#abdda4" stroke="#abdda4" stroke-width="0"/>
+		<path d="M94 483 v11 a14 14 90 0 1 -14 14 H48 a14 14 90 0 1 -14 -14 V483 H60" fill="#e6f598" stroke="#e6f598" stroke-width="0"/>
+		<rect x="34" y="458" width="60" height="50" fill="none" rx="14" stroke="#66c2a5" stroke-width="2"/>
+		<line x1="34" y1="483" x2="94" y2="483" stroke="#66c2a5" stroke-width="1"/>
+		<text x="42" y="475.75" fill="#000" font-family="Verdana" font-size="12">creates</text>
+	</g>
+</g>
+
+<!-- Entity USER -->
+<g class="page_0_6CD78GTb diagram_page" visibility="visible">
+	<g>
+		<rect x="9" y="9" width="110" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0" opacity="1"/>
+		<rect x="9" y="34" width="110" height="229" fill="#fee08b" stroke="#fee08b" stroke-width="0" opacity="1"/>
+		<rect x="9" y="9" width="110" height="254" fill="none" stroke="#f46d43" stroke-width="2" opacity="1"/>
+		<line x1="9" y1="34" x2="119" y2="34" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="47" y="26.75" fill="#000" font-family="Verdana" font-size="12">USER</text>
+	<text x="14" y="51.8" fill="#000" font-family="Verdana" font-size="12">email</text>
+	<line x1="14" y1="54" x2="48" y2="54" stroke="#000" stroke-width="1"/>
+	<text x="14" y="68.8" fill="#000" font-family="Verdana" font-size="12">password</text>
+	<text x="14" y="85.8" fill="#000" font-family="Verdana" font-size="12">role</text>
+	<text x="14" y="102.8" fill="#000" font-family="Verdana" font-size="12">first_name</text>
+	<text x="14" y="119.8" fill="#000" font-family="Verdana" font-size="12">last_name</text>
+	<text x="14" y="136.8" fill="#000" font-family="Verdana" font-size="12">address</text>
+	<text x="14" y="153.8" fill="#000" font-family="Verdana" font-size="12">comp address</text>
+	<text x="14" y="170.8" fill="#000" font-family="Verdana" font-size="12">zipcode</text>
+	<text x="14" y="187.8" fill="#000" font-family="Verdana" font-size="12">city</text>
+	<text x="14" y="204.8" fill="#000" font-family="Verdana" font-size="12">birth date</text>
+	<text x="14" y="221.8" fill="#000" font-family="Verdana" font-size="12">phone number</text>
+	<text x="14" y="238.8" fill="#000" font-family="Verdana" font-size="12">carrier</text>
+	<text x="14" y="255.8" fill="#000" font-family="Verdana" font-size="12">identity_verified</text>
+</g>
+
+<!-- Entity DELIVERY -->
+<g class="page_0_6CD78GTb diagram_page" visibility="visible">
+	<g>
+		<rect x="126" y="288" width="170" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0" opacity="1"/>
+		<rect x="126" y="313" width="170" height="365" fill="#fee08b" stroke="#fee08b" stroke-width="0" opacity="1"/>
+		<rect x="126" y="288" width="170" height="390" fill="none" stroke="#f46d43" stroke-width="2" opacity="1"/>
+		<line x1="126" y1="313" x2="296" y2="313" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="181" y="305.75" fill="#000" font-family="Verdana" font-size="12">DELIVERY</text>
+	<text x="131" y="330.8" fill="#000" font-family="Verdana" font-size="12">type_of_merchandise</text>
+	<text x="131" y="347.8" fill="#000" font-family="Verdana" font-size="12">quantity</text>
+	<text x="131" y="364.8" fill="#000" font-family="Verdana" font-size="12">volume</text>
+	<text x="131" y="381.8" fill="#000" font-family="Verdana" font-size="12">length</text>
+	<text x="131" y="398.8" fill="#000" font-family="Verdana" font-size="12">width</text>
+	<text x="131" y="415.8" fill="#000" font-family="Verdana" font-size="12">height</text>
+	<text x="131" y="432.8" fill="#000" font-family="Verdana" font-size="12">weight</text>
+	<text x="131" y="449.8" fill="#000" font-family="Verdana" font-size="12">departure_address</text>
+	<text x="131" y="466.8" fill="#000" font-family="Verdana" font-size="12">zipcode</text>
+	<text x="131" y="483.8" fill="#000" font-family="Verdana" font-size="12">city</text>
+	<text x="131" y="500.8" fill="#000" font-family="Verdana" font-size="12">departure_phone_number</text>
+	<text x="131" y="517.8" fill="#000" font-family="Verdana" font-size="12">arrival_address</text>
+	<text x="131" y="534.8" fill="#000" font-family="Verdana" font-size="12">arrival_zipcode</text>
+	<text x="131" y="551.8" fill="#000" font-family="Verdana" font-size="12">arrival_city</text>
+	<text x="131" y="568.8" fill="#000" font-family="Verdana" font-size="12">arrival_phone_number</text>
+	<text x="131" y="585.8" fill="#000" font-family="Verdana" font-size="12">departure_date</text>
+	<text x="131" y="602.8" fill="#000" font-family="Verdana" font-size="12">arrival_date</text>
+	<text x="131" y="619.8" fill="#000" font-family="Verdana" font-size="12">price</text>
+	<text x="131" y="636.8" fill="#000" font-family="Verdana" font-size="12">image</text>
+	<text x="131" y="653.8" fill="#000" font-family="Verdana" font-size="12">creator_id</text>
+	<text x="131" y="670.8" fill="#000" font-family="Verdana" font-size="12">carrier_id</text>
+</g>
+</svg>
